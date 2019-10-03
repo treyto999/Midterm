@@ -1,0 +1,19 @@
+*{
+    background-color: #68a; 
+    font-family: "Times New Roman"; 
+}
+h1{
+    font-size: 42px;
+}
+h2{
+    font-size: 32px;
+}
+div{
+    margin: 20px;
+    font-size: 25px;
+}
+a{
+    font-size: 20px;
+    white-space: pre;
+    color: #000;
+}
